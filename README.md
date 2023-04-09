@@ -28,9 +28,5 @@ The website is connected to the Coingecko API, which is a popular source of data
 
 <br><br>
 
-<h3 align='center'>Coin Page 🪙</h3>
 
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/220609015-e64cb000-b8d2-41ce-8a9a-e610d2f1ae5b.png'/>
-</div>
-# Cryptospy
+
